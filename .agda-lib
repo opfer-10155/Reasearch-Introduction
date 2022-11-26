@@ -1,0 +1,5 @@
+name: introduction
+depend: standard-library
+include:
+  .
+  ./src/
